@@ -23,7 +23,7 @@ Use project-ops-research to research the DIY natural incense cone kit market.
 ```
 
 ```text
-帮我做一个关于天然塔香的项目运营调研，找竞对并分析 SEO 和投放模式。
+帮我做一个关于XXXX的项目运营调研，找竞对并分析 SEO 和投放模式。
 ```
 
 ```text
