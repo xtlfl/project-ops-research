@@ -1,1 +1,3 @@
-
+display_name: Project Ops Research
+short_description: Research markets, competitors, SEO, ads, and operating playbooks.
+default_prompt: Research this industry or product, identify strong competitors, analyze their traffic channels and operating strategy, then produce an actionable market entry report.
