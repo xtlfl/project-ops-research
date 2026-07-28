@@ -1,6 +1,3 @@
-复制下面这份内容，粘到 `references/report-template.md` 里：
-
-```markdown
 # Project Operations Research Report Template
 
 Use this template for a complete industry or product operations research report.
