@@ -1,0 +1,3 @@
+display_name: Project Ops Research
+short_description: Create PPTX decks for overseas market, competitor, SEO, ads, and operations research.
+default_prompt: Research this industry, product, competitor company, or URL for overseas operations. Analyze market status, competitors, SEO, paid traffic, channels, promotion SOPs, and expected outcomes, then produce a PPTX deck.
