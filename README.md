@@ -25,7 +25,7 @@ Use project-ops-research to research the DIY natural incense cone kit market and
 ```
 
 ```text
-帮我做一个关于天然塔香的出海项目运营调研，输出 PPT，分析海外市场、竞对、SEO、投流和起步推广 SOP。
+帮我做一个关于xxx的出海项目运营调研，输出 PPT，分析海外市场、竞对、SEO、投流和起步推广 SOP。
 ```
 
 ```text
